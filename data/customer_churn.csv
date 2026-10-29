@@ -1,0 +1,1201 @@
+customer_id,tenure_months,monthly_charges,contract_type,tech_support,internet_service,autopay,monthly_usage_hours,churn
+CUST00001,7,99.45,Month-to-month,No,Fiber,No,17.8,1
+CUST00002,56,66.44,One year,No,Fiber,Yes,13.3,0
+CUST00003,48,80.0,One year,Yes,Fiber,No,18.9,0
+CUST00004,32,18.98,Month-to-month,Yes,DSL,No,19.9,0
+CUST00005,32,46.56,Month-to-month,Yes,DSL,No,15.4,0
+CUST00006,62,65.54,Month-to-month,No,Fiber,No,24.3,0
+CUST00007,7,48.41,Two year,No,DSL,No,27.0,0
+CUST00008,51,87.72,Month-to-month,Yes,Fiber,No,24.8,0
+CUST00009,15,115.94,Month-to-month,No,None,Yes,16.1,1
+CUST00010,7,46.11,Two year,Yes,Fiber,Yes,23.3,0
+CUST00011,38,53.58,Month-to-month,Yes,DSL,No,18.5,0
+CUST00012,71,77.18,Month-to-month,Yes,DSL,Yes,9.3,0
+CUST00013,53,107.44,Month-to-month,No,Fiber,No,22.7,1
+CUST00014,55,45.11,Month-to-month,No,Fiber,Yes,19.0,1
+CUST00015,52,77.48,Month-to-month,No,Fiber,No,36.2,1
+CUST00016,57,112.07,Month-to-month,Yes,DSL,Yes,28.2,0
+CUST00017,37,35.66,One year,Yes,DSL,No,23.0,0
+CUST00018,10,43.82,One year,No,DSL,Yes,19.7,0
+CUST00019,61,62.68,Month-to-month,Yes,DSL,Yes,19.1,0
+CUST00020,33,60.55,One year,No,DSL,No,11.0,0
+CUST00021,37,89.88,Month-to-month,No,Fiber,No,5.8,1
+CUST00022,27,77.32,Two year,No,Fiber,No,11.9,0
+CUST00023,14,32.95,Month-to-month,No,DSL,No,17.7,1
+CUST00024,67,83.34,One year,No,Fiber,Yes,3.3,0
+CUST00025,57,59.29,Month-to-month,No,DSL,No,14.2,0
+CUST00026,47,100.04,One year,No,Fiber,Yes,16.3,0
+CUST00027,29,58.19,Month-to-month,No,Fiber,Yes,16.5,0
+CUST00028,60,57.99,One year,Yes,DSL,Yes,13.4,0
+CUST00029,40,83.9,Month-to-month,No,Fiber,Yes,15.6,1
+CUST00030,32,88.78,Two year,Yes,Fiber,No,30.1,0
+CUST00031,33,81.86,Month-to-month,No,Fiber,No,22.6,1
+CUST00032,17,34.92,One year,No,DSL,Yes,14.1,0
+CUST00033,7,83.84,Two year,No,DSL,No,17.5,1
+CUST00034,40,49.25,Two year,No,Fiber,Yes,17.8,0
+CUST00035,64,77.18,Month-to-month,No,Fiber,Yes,12.6,1
+CUST00036,5,40.68,Month-to-month,Yes,Fiber,No,12.6,0
+CUST00037,62,81.82,Month-to-month,Yes,None,Yes,25.1,1
+CUST00038,60,54.25,Month-to-month,Yes,Fiber,Yes,15.1,1
+CUST00039,20,43.78,One year,No,None,No,10.3,0
+CUST00040,46,87.7,Two year,No,DSL,Yes,17.7,0
+CUST00041,12,77.32,Two year,Yes,Fiber,Yes,18.8,0
+CUST00042,55,58.49,Month-to-month,No,DSL,No,4.2,1
+CUST00043,51,103.93,One year,Yes,DSL,Yes,17.7,0
+CUST00044,26,62.31,Two year,No,Fiber,No,24.1,0
+CUST00045,5,72.71,Two year,Yes,Fiber,No,21.2,0
+CUST00046,70,77.92,Month-to-month,Yes,DSL,Yes,33.6,0
+CUST00047,33,58.37,Month-to-month,No,DSL,Yes,26.8,1
+CUST00048,65,82.36,Two year,No,DSL,Yes,28.1,0
+CUST00049,49,60.26,Month-to-month,Yes,None,No,37.6,0
+CUST00050,57,62.94,Month-to-month,No,Fiber,Yes,23.3,1
+CUST00051,55,101.98,Two year,No,DSL,No,19.1,0
+CUST00052,15,49.11,Two year,No,DSL,Yes,24.8,0
+CUST00053,27,18.92,Two year,No,Fiber,No,14.1,0
+CUST00054,34,107.44,One year,No,Fiber,Yes,18.8,0
+CUST00055,36,128.09,Month-to-month,Yes,Fiber,Yes,13.5,1
+CUST00056,4,63.08,Month-to-month,No,DSL,Yes,20.8,1
+CUST00057,40,29.39,Month-to-month,No,Fiber,No,13.4,1
+CUST00058,12,65.17,One year,Yes,DSL,No,13.2,0
+CUST00059,54,65.7,Month-to-month,Yes,Fiber,Yes,20.9,0
+CUST00060,50,67.82,One year,Yes,Fiber,Yes,17.0,0
+CUST00061,67,47.51,Month-to-month,No,DSL,Yes,4.5,1
+CUST00062,54,84.75,One year,No,Fiber,Yes,7.8,1
+CUST00063,27,83.54,Month-to-month,No,DSL,No,10.0,0
+CUST00064,70,39.12,Month-to-month,Yes,Fiber,No,11.8,0
+CUST00065,30,87.38,Month-to-month,Yes,None,No,20.9,1
+CUST00066,24,117.16,Month-to-month,No,Fiber,Yes,19.5,1
+CUST00067,66,75.78,Two year,No,None,Yes,25.5,0
+CUST00068,27,64.58,Month-to-month,No,DSL,No,23.3,1
+CUST00069,6,68.88,Month-to-month,No,Fiber,Yes,25.5,0
+CUST00070,34,85.54,One year,No,Fiber,No,22.3,1
+CUST00071,58,33.93,One year,No,Fiber,Yes,19.5,0
+CUST00072,14,75.62,Month-to-month,No,DSL,Yes,25.7,0
+CUST00073,34,63.41,Month-to-month,No,DSL,No,24.4,0
+CUST00074,10,112.65,Month-to-month,Yes,Fiber,Yes,20.6,0
+CUST00075,50,68.17,One year,Yes,Fiber,No,26.9,1
+CUST00076,35,108.69,Month-to-month,Yes,DSL,Yes,1.6,1
+CUST00077,24,47.72,Month-to-month,Yes,DSL,Yes,16.0,1
+CUST00078,17,84.92,Month-to-month,Yes,DSL,Yes,15.9,1
+CUST00079,41,79.03,One year,No,Fiber,Yes,26.1,0
+CUST00080,49,52.88,Month-to-month,Yes,DSL,Yes,29.0,0
+CUST00081,68,75.9,Two year,No,None,Yes,7.8,0
+CUST00082,32,98.68,Month-to-month,No,Fiber,No,27.9,1
+CUST00083,12,64.88,One year,No,Fiber,No,9.8,0
+CUST00084,60,34.78,Month-to-month,No,Fiber,Yes,10.0,0
+CUST00085,46,71.61,Month-to-month,Yes,DSL,Yes,16.4,0
+CUST00086,51,52.15,Month-to-month,No,Fiber,Yes,15.8,0
+CUST00087,8,64.47,One year,Yes,None,No,7.1,1
+CUST00088,23,70.21,Two year,No,DSL,No,22.5,0
+CUST00089,56,34.48,Month-to-month,Yes,DSL,Yes,22.8,0
+CUST00090,60,36.46,Month-to-month,Yes,DSL,Yes,25.4,0
+CUST00091,32,82.61,Two year,No,Fiber,Yes,15.0,0
+CUST00092,58,60.5,Month-to-month,No,DSL,Yes,17.7,0
+CUST00093,61,18.0,Month-to-month,No,Fiber,Yes,17.8,0
+CUST00094,28,89.27,Month-to-month,No,DSL,No,29.8,1
+CUST00095,65,77.99,One year,Yes,None,Yes,1.0,0
+CUST00096,21,56.29,One year,No,DSL,Yes,11.3,0
+CUST00097,18,43.03,One year,Yes,DSL,Yes,18.0,0
+CUST00098,50,90.39,Two year,Yes,Fiber,No,10.4,0
+CUST00099,46,79.69,Month-to-month,Yes,DSL,Yes,16.2,0
+CUST00100,11,124.42,Month-to-month,Yes,DSL,Yes,17.1,1
+CUST00101,60,81.24,Month-to-month,Yes,DSL,Yes,13.4,0
+CUST00102,15,80.53,Month-to-month,No,Fiber,No,18.5,1
+CUST00103,58,68.33,Month-to-month,Yes,Fiber,Yes,22.4,0
+CUST00104,1,89.97,Month-to-month,Yes,DSL,No,16.3,1
+CUST00105,58,85.75,Month-to-month,No,Fiber,Yes,14.8,0
+CUST00106,57,99.54,One year,Yes,DSL,Yes,16.8,0
+CUST00107,57,60.53,Month-to-month,No,DSL,No,17.9,0
+CUST00108,48,62.42,Month-to-month,No,None,No,5.8,0
+CUST00109,34,61.46,One year,No,Fiber,Yes,21.2,0
+CUST00110,51,89.4,One year,No,None,No,14.8,1
+CUST00111,20,104.96,One year,Yes,Fiber,Yes,26.8,0
+CUST00112,57,61.91,One year,Yes,Fiber,Yes,22.1,0
+CUST00113,41,62.65,One year,No,DSL,No,26.2,1
+CUST00114,34,78.91,Month-to-month,No,Fiber,No,10.9,1
+CUST00115,37,66.59,Month-to-month,No,Fiber,Yes,15.4,1
+CUST00116,41,92.95,One year,Yes,Fiber,No,9.3,1
+CUST00117,3,22.46,Month-to-month,No,Fiber,Yes,13.1,0
+CUST00118,11,53.81,Month-to-month,Yes,DSL,Yes,26.8,1
+CUST00119,18,54.79,Month-to-month,Yes,Fiber,No,28.4,1
+CUST00120,9,20.95,Month-to-month,Yes,Fiber,Yes,10.0,0
+CUST00121,32,50.8,Month-to-month,No,DSL,No,14.8,0
+CUST00122,49,51.87,Month-to-month,Yes,Fiber,No,17.5,1
+CUST00123,48,67.58,One year,No,DSL,Yes,22.1,0
+CUST00124,34,96.49,Two year,No,None,Yes,5.7,1
+CUST00125,62,66.61,Month-to-month,No,DSL,No,6.8,0
+CUST00126,41,49.32,Two year,No,DSL,No,21.4,0
+CUST00127,6,70.75,Month-to-month,No,Fiber,No,4.4,1
+CUST00128,56,95.08,Two year,Yes,DSL,Yes,14.9,0
+CUST00129,42,50.53,Two year,Yes,Fiber,Yes,19.1,0
+CUST00130,46,51.97,Month-to-month,No,Fiber,Yes,20.9,0
+CUST00131,41,84.29,One year,Yes,DSL,Yes,17.0,0
+CUST00132,40,67.13,Two year,Yes,Fiber,Yes,15.4,0
+CUST00133,7,86.24,Two year,Yes,DSL,No,23.9,1
+CUST00134,41,71.7,Two year,Yes,DSL,No,20.0,1
+CUST00135,58,87.44,One year,Yes,None,Yes,13.5,1
+CUST00136,22,49.23,Month-to-month,Yes,Fiber,Yes,18.3,1
+CUST00137,44,71.73,Two year,No,Fiber,No,20.7,1
+CUST00138,3,67.36,One year,Yes,DSL,Yes,30.0,0
+CUST00139,26,45.25,One year,No,Fiber,No,23.5,0
+CUST00140,32,37.6,Month-to-month,No,DSL,Yes,26.5,1
+CUST00141,71,87.09,One year,Yes,DSL,Yes,13.7,1
+CUST00142,16,64.28,Month-to-month,No,None,Yes,14.3,0
+CUST00143,20,49.51,One year,No,DSL,No,16.4,1
+CUST00144,30,69.88,Month-to-month,No,Fiber,Yes,17.0,1
+CUST00145,72,96.82,One year,Yes,Fiber,No,10.9,1
+CUST00146,62,21.82,Two year,Yes,DSL,Yes,26.9,0
+CUST00147,3,39.07,Month-to-month,Yes,Fiber,Yes,24.2,1
+CUST00148,17,51.7,Month-to-month,No,Fiber,No,15.9,0
+CUST00149,60,104.15,Month-to-month,No,Fiber,Yes,22.5,1
+CUST00150,5,78.22,Two year,No,Fiber,Yes,19.6,1
+CUST00151,62,88.88,One year,No,Fiber,Yes,23.0,0
+CUST00152,21,46.92,Month-to-month,No,Fiber,No,8.6,0
+CUST00153,67,47.37,Month-to-month,No,DSL,Yes,17.0,0
+CUST00154,22,81.85,Month-to-month,Yes,Fiber,Yes,17.6,1
+CUST00155,32,73.28,Month-to-month,No,DSL,No,22.4,1
+CUST00156,48,84.07,Two year,Yes,Fiber,No,13.6,0
+CUST00157,10,67.87,One year,Yes,DSL,No,1.0,1
+CUST00158,41,78.12,Month-to-month,No,Fiber,No,10.4,0
+CUST00159,37,75.48,Two year,No,DSL,No,17.6,0
+CUST00160,57,89.11,Month-to-month,Yes,Fiber,Yes,18.4,1
+CUST00161,72,89.75,Two year,No,Fiber,Yes,29.8,0
+CUST00162,48,36.36,Month-to-month,Yes,Fiber,No,22.1,0
+CUST00163,30,22.56,One year,Yes,DSL,No,18.6,0
+CUST00164,30,94.04,Two year,Yes,None,No,17.8,1
+CUST00165,31,98.13,Month-to-month,No,Fiber,Yes,25.7,1
+CUST00166,59,49.55,One year,No,Fiber,Yes,13.9,0
+CUST00167,24,31.08,Two year,Yes,DSL,Yes,17.0,0
+CUST00168,13,74.18,Month-to-month,Yes,DSL,No,10.4,1
+CUST00169,25,92.48,Month-to-month,Yes,Fiber,Yes,27.9,0
+CUST00170,2,111.55,One year,Yes,DSL,No,20.7,1
+CUST00171,8,83.36,Month-to-month,No,Fiber,No,13.0,1
+CUST00172,7,63.82,Month-to-month,No,DSL,Yes,17.2,1
+CUST00173,56,52.35,Month-to-month,No,Fiber,Yes,21.6,0
+CUST00174,53,72.25,One year,Yes,Fiber,No,16.2,0
+CUST00175,51,65.42,Month-to-month,No,Fiber,No,14.3,0
+CUST00176,34,49.67,Month-to-month,Yes,DSL,Yes,13.4,0
+CUST00177,52,117.07,Two year,Yes,Fiber,No,20.4,0
+CUST00178,12,111.27,Month-to-month,No,DSL,Yes,15.5,1
+CUST00179,65,96.99,Two year,No,DSL,Yes,14.8,0
+CUST00180,37,51.74,Month-to-month,No,DSL,Yes,8.6,0
+CUST00181,68,90.81,Two year,No,Fiber,No,18.5,1
+CUST00182,11,86.07,One year,No,Fiber,No,16.7,1
+CUST00183,36,81.74,Month-to-month,No,Fiber,Yes,15.7,1
+CUST00184,51,99.49,Two year,Yes,DSL,Yes,19.4,0
+CUST00185,36,85.98,Month-to-month,Yes,None,Yes,23.2,0
+CUST00186,33,88.28,Month-to-month,Yes,Fiber,No,22.9,0
+CUST00187,12,86.01,Month-to-month,Yes,DSL,Yes,21.9,0
+CUST00188,28,79.5,One year,Yes,Fiber,No,16.3,1
+CUST00189,18,32.76,Month-to-month,Yes,Fiber,Yes,14.0,0
+CUST00190,22,73.84,Month-to-month,No,Fiber,No,10.7,1
+CUST00191,50,59.76,Month-to-month,No,DSL,Yes,13.8,0
+CUST00192,46,43.84,Month-to-month,No,Fiber,No,18.1,0
+CUST00193,44,109.0,Month-to-month,Yes,Fiber,No,12.5,1
+CUST00194,27,110.04,Month-to-month,No,DSL,Yes,18.7,0
+CUST00195,70,101.9,Month-to-month,Yes,DSL,Yes,11.2,0
+CUST00196,7,77.61,Month-to-month,Yes,Fiber,No,6.4,1
+CUST00197,25,101.71,One year,Yes,Fiber,No,23.7,1
+CUST00198,9,72.27,Month-to-month,Yes,Fiber,Yes,14.7,0
+CUST00199,25,76.46,One year,Yes,Fiber,Yes,12.1,0
+CUST00200,70,47.94,Month-to-month,No,Fiber,Yes,10.3,0
+CUST00201,27,80.73,Month-to-month,No,DSL,No,21.0,0
+CUST00202,66,73.33,Month-to-month,No,Fiber,No,27.6,0
+CUST00203,36,43.34,Month-to-month,Yes,DSL,Yes,15.2,1
+CUST00204,51,70.87,Month-to-month,No,Fiber,No,16.5,1
+CUST00205,33,70.25,One year,No,Fiber,No,25.5,1
+CUST00206,20,111.55,Month-to-month,Yes,Fiber,No,5.3,0
+CUST00207,56,91.67,Month-to-month,No,Fiber,Yes,31.8,1
+CUST00208,70,72.25,One year,No,Fiber,Yes,35.1,0
+CUST00209,19,77.47,Month-to-month,No,Fiber,Yes,1.0,1
+CUST00210,57,72.97,Month-to-month,Yes,None,Yes,17.3,0
+CUST00211,19,67.54,Month-to-month,No,DSL,Yes,13.0,0
+CUST00212,52,48.19,Month-to-month,Yes,Fiber,Yes,16.1,0
+CUST00213,57,68.68,Month-to-month,Yes,DSL,Yes,15.1,1
+CUST00214,33,55.59,One year,Yes,DSL,No,23.7,0
+CUST00215,54,44.49,Two year,No,DSL,Yes,17.2,0
+CUST00216,20,83.25,Month-to-month,Yes,Fiber,No,11.6,1
+CUST00217,6,80.61,One year,Yes,Fiber,Yes,16.8,0
+CUST00218,7,32.69,One year,Yes,Fiber,Yes,21.6,1
+CUST00219,33,69.3,Month-to-month,No,Fiber,Yes,9.7,0
+CUST00220,65,93.91,One year,No,Fiber,No,6.5,0
+CUST00221,10,95.3,One year,No,DSL,No,31.9,1
+CUST00222,33,94.57,Two year,Yes,None,Yes,13.5,0
+CUST00223,51,72.86,Two year,Yes,Fiber,No,17.0,1
+CUST00224,15,53.41,Month-to-month,No,Fiber,Yes,15.2,1
+CUST00225,52,48.16,Month-to-month,Yes,Fiber,No,21.8,0
+CUST00226,23,79.58,Month-to-month,No,Fiber,Yes,30.4,1
+CUST00227,59,80.34,Month-to-month,No,DSL,Yes,22.1,0
+CUST00228,42,100.32,Month-to-month,No,Fiber,Yes,7.4,0
+CUST00229,40,96.2,Two year,No,DSL,No,8.3,0
+CUST00230,13,69.09,Month-to-month,No,None,Yes,15.2,1
+CUST00231,34,44.63,Month-to-month,Yes,DSL,No,16.1,0
+CUST00232,62,64.98,Two year,No,DSL,Yes,5.9,0
+CUST00233,2,76.78,Month-to-month,Yes,DSL,Yes,23.7,0
+CUST00234,55,67.55,Month-to-month,No,Fiber,Yes,10.4,0
+CUST00235,36,59.29,Two year,Yes,Fiber,No,28.5,0
+CUST00236,52,77.56,Month-to-month,Yes,DSL,No,30.7,0
+CUST00237,48,60.91,Month-to-month,No,Fiber,Yes,16.3,1
+CUST00238,32,58.18,Month-to-month,Yes,DSL,No,21.1,1
+CUST00239,23,78.85,Two year,Yes,Fiber,Yes,9.4,0
+CUST00240,46,63.16,Month-to-month,No,Fiber,Yes,22.4,1
+CUST00241,11,77.37,Month-to-month,Yes,Fiber,Yes,14.5,1
+CUST00242,43,78.01,Month-to-month,No,None,Yes,10.4,0
+CUST00243,7,46.93,Month-to-month,Yes,Fiber,Yes,16.0,0
+CUST00244,47,61.41,Two year,Yes,Fiber,No,14.7,0
+CUST00245,46,103.63,Month-to-month,Yes,Fiber,Yes,15.7,0
+CUST00246,7,46.43,Two year,No,DSL,No,24.6,0
+CUST00247,55,25.43,Month-to-month,No,None,No,12.5,0
+CUST00248,30,31.04,Month-to-month,Yes,Fiber,No,30.1,0
+CUST00249,57,72.64,Two year,No,None,No,8.7,0
+CUST00250,3,72.68,Month-to-month,No,Fiber,No,29.3,1
+CUST00251,13,69.41,Month-to-month,No,DSL,Yes,10.9,1
+CUST00252,36,98.71,Two year,No,Fiber,Yes,18.0,1
+CUST00253,14,18.0,Month-to-month,No,Fiber,Yes,14.6,0
+CUST00254,24,80.71,Month-to-month,No,DSL,No,15.6,0
+CUST00255,48,106.35,Two year,No,DSL,Yes,23.6,0
+CUST00256,11,47.19,Month-to-month,No,Fiber,No,28.5,1
+CUST00257,49,63.64,Month-to-month,Yes,DSL,No,26.3,0
+CUST00258,8,55.44,Month-to-month,Yes,None,Yes,15.2,1
+CUST00259,13,52.32,Month-to-month,No,Fiber,No,19.3,1
+CUST00260,43,64.82,Month-to-month,Yes,DSL,Yes,12.5,0
+CUST00261,58,103.4,One year,Yes,DSL,Yes,11.1,1
+CUST00262,13,112.42,Month-to-month,Yes,Fiber,No,10.0,1
+CUST00263,22,64.61,One year,Yes,DSL,Yes,14.9,0
+CUST00264,67,113.91,Month-to-month,No,Fiber,Yes,19.7,1
+CUST00265,72,72.78,Month-to-month,No,DSL,Yes,4.6,0
+CUST00266,42,110.58,Month-to-month,No,Fiber,Yes,17.7,0
+CUST00267,33,69.95,One year,Yes,Fiber,No,28.6,0
+CUST00268,25,74.88,Month-to-month,No,DSL,No,25.9,1
+CUST00269,45,80.04,Month-to-month,Yes,DSL,Yes,13.9,0
+CUST00270,43,141.93,Two year,No,DSL,Yes,8.2,1
+CUST00271,22,90.73,One year,No,None,Yes,21.2,0
+CUST00272,2,56.44,Month-to-month,No,Fiber,No,1.8,1
+CUST00273,11,93.32,Two year,No,Fiber,No,25.8,1
+CUST00274,70,64.04,Month-to-month,No,Fiber,Yes,16.5,1
+CUST00275,31,61.23,Month-to-month,No,Fiber,Yes,30.8,1
+CUST00276,35,91.99,Month-to-month,No,Fiber,No,5.9,1
+CUST00277,34,72.68,Month-to-month,No,DSL,No,24.4,1
+CUST00278,57,78.13,Month-to-month,Yes,DSL,Yes,17.3,0
+CUST00279,5,72.31,One year,No,Fiber,No,15.7,1
+CUST00280,6,79.4,Month-to-month,Yes,Fiber,Yes,8.4,1
+CUST00281,20,81.35,One year,Yes,DSL,Yes,22.2,1
+CUST00282,36,29.39,Two year,No,Fiber,No,22.7,0
+CUST00283,49,86.66,One year,No,Fiber,Yes,30.5,1
+CUST00284,36,50.4,One year,Yes,Fiber,Yes,25.1,0
+CUST00285,32,40.27,One year,Yes,Fiber,No,13.8,0
+CUST00286,68,70.71,Two year,Yes,Fiber,No,11.0,0
+CUST00287,12,73.85,Month-to-month,No,DSL,Yes,8.4,1
+CUST00288,42,56.74,Month-to-month,Yes,Fiber,No,28.3,0
+CUST00289,40,90.28,Month-to-month,No,DSL,No,12.6,1
+CUST00290,35,42.47,Month-to-month,No,Fiber,Yes,28.4,1
+CUST00291,59,63.05,Month-to-month,No,DSL,No,21.7,1
+CUST00292,20,59.13,One year,No,Fiber,No,20.3,1
+CUST00293,69,70.98,Month-to-month,Yes,Fiber,Yes,15.9,0
+CUST00294,24,78.14,Two year,Yes,Fiber,Yes,22.6,0
+CUST00295,40,49.83,Month-to-month,No,Fiber,No,17.9,1
+CUST00296,38,87.93,Month-to-month,Yes,Fiber,No,15.4,1
+CUST00297,62,73.39,Month-to-month,Yes,DSL,Yes,22.9,0
+CUST00298,32,30.38,Month-to-month,Yes,Fiber,Yes,17.0,0
+CUST00299,21,28.91,Month-to-month,Yes,Fiber,No,12.4,0
+CUST00300,2,71.73,Month-to-month,No,Fiber,Yes,22.2,1
+CUST00301,27,67.14,Month-to-month,No,DSL,Yes,17.6,1
+CUST00302,60,69.72,Month-to-month,No,DSL,No,21.4,0
+CUST00303,1,71.38,Month-to-month,No,DSL,No,14.8,1
+CUST00304,65,76.96,Month-to-month,No,DSL,No,9.5,1
+CUST00305,40,92.85,Month-to-month,Yes,DSL,No,30.1,1
+CUST00306,11,47.56,Month-to-month,No,DSL,Yes,28.8,0
+CUST00307,22,46.22,Month-to-month,No,Fiber,No,24.2,0
+CUST00308,40,47.95,Month-to-month,Yes,DSL,Yes,15.3,0
+CUST00309,23,78.36,Month-to-month,No,DSL,Yes,15.9,1
+CUST00310,8,99.39,One year,Yes,Fiber,No,27.7,1
+CUST00311,48,62.51,Two year,Yes,DSL,No,15.5,0
+CUST00312,49,18.0,Two year,Yes,Fiber,No,13.6,0
+CUST00313,9,34.51,Month-to-month,Yes,Fiber,Yes,31.1,0
+CUST00314,21,53.67,Month-to-month,Yes,Fiber,No,17.7,0
+CUST00315,18,59.73,Month-to-month,No,DSL,No,30.4,0
+CUST00316,48,63.02,One year,No,DSL,No,8.2,0
+CUST00317,53,72.85,One year,Yes,Fiber,No,21.6,0
+CUST00318,53,65.14,Two year,No,Fiber,Yes,32.5,0
+CUST00319,68,95.09,Two year,Yes,Fiber,No,18.2,0
+CUST00320,56,57.13,Month-to-month,No,Fiber,No,16.2,0
+CUST00321,24,53.03,One year,Yes,None,No,9.8,0
+CUST00322,8,82.54,One year,Yes,Fiber,No,25.6,1
+CUST00323,45,38.22,Month-to-month,No,Fiber,No,12.6,0
+CUST00324,66,80.57,Two year,No,Fiber,Yes,17.3,0
+CUST00325,71,74.26,Month-to-month,No,None,Yes,9.4,0
+CUST00326,17,68.76,Two year,No,Fiber,No,28.9,1
+CUST00327,18,106.94,One year,No,DSL,No,26.1,1
+CUST00328,3,58.31,Month-to-month,Yes,Fiber,No,17.8,1
+CUST00329,11,117.33,One year,Yes,Fiber,Yes,9.9,0
+CUST00330,40,67.04,Month-to-month,Yes,DSL,Yes,28.8,0
+CUST00331,40,43.91,One year,Yes,Fiber,No,15.4,0
+CUST00332,27,73.54,One year,Yes,DSL,No,10.3,0
+CUST00333,23,48.32,One year,No,Fiber,Yes,5.7,0
+CUST00334,60,55.46,Two year,Yes,DSL,No,13.5,0
+CUST00335,34,80.73,Month-to-month,No,DSL,Yes,7.8,1
+CUST00336,59,84.22,Month-to-month,No,DSL,Yes,13.6,1
+CUST00337,70,58.31,Month-to-month,No,Fiber,Yes,23.2,0
+CUST00338,23,93.72,Month-to-month,No,DSL,Yes,15.4,1
+CUST00339,15,97.47,Month-to-month,Yes,None,Yes,20.5,1
+CUST00340,69,103.6,Month-to-month,Yes,Fiber,No,12.9,0
+CUST00341,46,83.65,Month-to-month,No,Fiber,No,18.5,1
+CUST00342,21,102.0,Month-to-month,No,DSL,No,31.4,1
+CUST00343,45,30.62,Two year,Yes,Fiber,Yes,15.6,0
+CUST00344,38,65.01,Month-to-month,Yes,DSL,Yes,20.7,1
+CUST00345,66,52.93,Two year,No,DSL,Yes,7.0,0
+CUST00346,19,74.62,Month-to-month,No,Fiber,No,28.6,1
+CUST00347,72,59.43,Month-to-month,Yes,DSL,Yes,14.7,0
+CUST00348,68,68.34,Month-to-month,No,DSL,No,25.4,1
+CUST00349,14,113.41,Month-to-month,No,Fiber,No,17.1,1
+CUST00350,12,68.27,Month-to-month,Yes,DSL,No,22.3,0
+CUST00351,39,81.1,Month-to-month,No,Fiber,Yes,22.7,1
+CUST00352,4,66.89,Month-to-month,Yes,Fiber,Yes,14.8,0
+CUST00353,22,73.67,Month-to-month,No,DSL,Yes,25.6,0
+CUST00354,32,72.13,One year,No,Fiber,Yes,12.7,0
+CUST00355,70,81.86,Month-to-month,Yes,DSL,No,23.4,0
+CUST00356,72,97.64,One year,No,Fiber,Yes,15.3,0
+CUST00357,11,108.24,Month-to-month,No,Fiber,No,20.4,1
+CUST00358,65,78.81,Two year,No,Fiber,Yes,14.8,0
+CUST00359,7,84.97,One year,Yes,DSL,No,18.3,1
+CUST00360,54,46.68,Two year,No,DSL,No,10.5,1
+CUST00361,61,70.07,Two year,No,DSL,Yes,19.7,0
+CUST00362,65,92.69,Month-to-month,No,None,No,18.3,0
+CUST00363,17,91.05,Month-to-month,Yes,DSL,Yes,14.2,1
+CUST00364,65,76.66,Month-to-month,No,DSL,No,17.6,0
+CUST00365,9,91.5,One year,No,Fiber,No,18.9,1
+CUST00366,38,82.8,One year,No,None,No,13.7,1
+CUST00367,34,98.41,Month-to-month,No,DSL,No,17.1,1
+CUST00368,23,78.37,Two year,Yes,DSL,Yes,11.0,1
+CUST00369,2,64.17,Month-to-month,Yes,Fiber,No,34.4,1
+CUST00370,56,79.39,One year,No,Fiber,No,25.4,1
+CUST00371,25,18.0,One year,No,DSL,Yes,19.9,0
+CUST00372,48,80.42,Month-to-month,Yes,Fiber,Yes,26.2,0
+CUST00373,30,18.0,One year,No,Fiber,No,4.1,0
+CUST00374,27,34.08,One year,No,None,No,1.0,0
+CUST00375,64,81.94,Month-to-month,Yes,Fiber,Yes,15.2,1
+CUST00376,7,82.51,Month-to-month,Yes,Fiber,No,8.4,1
+CUST00377,54,46.43,Month-to-month,No,Fiber,No,16.3,0
+CUST00378,54,56.33,One year,No,Fiber,Yes,19.4,0
+CUST00379,28,102.15,Month-to-month,Yes,DSL,Yes,24.4,1
+CUST00380,19,61.35,Two year,No,None,No,10.0,1
+CUST00381,1,121.34,Two year,No,None,No,20.8,1
+CUST00382,68,71.96,Month-to-month,No,DSL,Yes,18.1,1
+CUST00383,69,80.98,Month-to-month,No,DSL,Yes,20.4,0
+CUST00384,18,107.57,One year,No,Fiber,No,14.4,1
+CUST00385,3,74.88,One year,No,DSL,No,27.7,0
+CUST00386,9,49.95,Month-to-month,Yes,Fiber,No,17.3,1
+CUST00387,5,69.59,Month-to-month,No,Fiber,Yes,30.4,0
+CUST00388,60,71.22,Month-to-month,Yes,None,No,12.5,0
+CUST00389,65,41.98,Two year,No,DSL,Yes,23.2,0
+CUST00390,12,66.37,Month-to-month,Yes,Fiber,Yes,17.6,1
+CUST00391,54,55.67,Two year,No,DSL,No,15.7,1
+CUST00392,13,92.34,Month-to-month,Yes,Fiber,No,22.4,1
+CUST00393,27,72.76,Two year,Yes,Fiber,Yes,15.9,1
+CUST00394,44,65.78,Month-to-month,Yes,Fiber,No,1.0,1
+CUST00395,52,69.66,Month-to-month,No,Fiber,Yes,1.0,0
+CUST00396,63,76.91,Two year,No,DSL,Yes,26.9,0
+CUST00397,4,85.57,Two year,Yes,Fiber,Yes,26.6,1
+CUST00398,15,50.01,Month-to-month,No,Fiber,Yes,31.2,0
+CUST00399,21,49.09,Month-to-month,No,Fiber,No,17.9,1
+CUST00400,23,96.3,Month-to-month,Yes,None,No,9.0,0
+CUST00401,72,62.93,Month-to-month,No,DSL,No,15.1,1
+CUST00402,56,40.83,Month-to-month,Yes,DSL,Yes,18.1,0
+CUST00403,24,81.76,Two year,Yes,Fiber,Yes,11.0,1
+CUST00404,70,82.19,Month-to-month,No,DSL,Yes,29.5,0
+CUST00405,36,38.32,One year,Yes,DSL,No,33.7,0
+CUST00406,37,77.05,Month-to-month,No,Fiber,Yes,21.3,1
+CUST00407,32,88.18,Month-to-month,No,Fiber,Yes,17.9,1
+CUST00408,11,80.24,One year,No,Fiber,No,8.9,1
+CUST00409,68,85.9,Month-to-month,No,Fiber,No,28.8,0
+CUST00410,2,41.11,One year,No,Fiber,Yes,18.5,0
+CUST00411,13,79.28,Month-to-month,No,Fiber,Yes,16.0,1
+CUST00412,17,65.34,Two year,Yes,Fiber,No,21.4,1
+CUST00413,21,61.38,One year,Yes,DSL,Yes,13.9,0
+CUST00414,10,91.15,Two year,No,Fiber,Yes,19.0,1
+CUST00415,2,104.54,Month-to-month,Yes,Fiber,No,7.9,1
+CUST00416,49,111.48,Month-to-month,Yes,DSL,Yes,25.6,1
+CUST00417,70,100.93,Month-to-month,Yes,Fiber,Yes,17.3,1
+CUST00418,9,69.59,Month-to-month,No,Fiber,Yes,26.1,1
+CUST00419,22,79.76,Month-to-month,Yes,Fiber,Yes,16.6,1
+CUST00420,37,88.87,Month-to-month,Yes,Fiber,Yes,17.0,1
+CUST00421,67,74.67,Month-to-month,Yes,Fiber,Yes,9.5,1
+CUST00422,50,74.88,Month-to-month,Yes,Fiber,Yes,23.3,1
+CUST00423,56,90.12,Month-to-month,No,Fiber,Yes,11.9,0
+CUST00424,42,70.7,Month-to-month,Yes,None,No,14.6,1
+CUST00425,31,55.96,Month-to-month,No,None,No,18.0,0
+CUST00426,15,62.88,One year,No,Fiber,Yes,18.8,0
+CUST00427,63,85.95,Month-to-month,Yes,Fiber,Yes,6.1,1
+CUST00428,58,72.07,Month-to-month,No,Fiber,No,16.4,1
+CUST00429,2,79.48,Month-to-month,No,DSL,No,23.6,1
+CUST00430,52,86.74,One year,No,DSL,No,15.4,0
+CUST00431,7,63.75,Month-to-month,Yes,Fiber,Yes,16.4,0
+CUST00432,54,88.64,One year,Yes,Fiber,Yes,19.1,0
+CUST00433,60,80.33,Two year,No,Fiber,Yes,17.1,0
+CUST00434,10,44.83,Month-to-month,No,DSL,No,10.8,1
+CUST00435,32,103.73,Two year,No,DSL,No,17.7,1
+CUST00436,9,60.98,One year,No,Fiber,Yes,25.0,1
+CUST00437,41,35.59,Month-to-month,Yes,DSL,Yes,10.6,1
+CUST00438,67,49.01,Month-to-month,No,Fiber,Yes,15.4,0
+CUST00439,6,49.54,One year,No,DSL,No,8.3,1
+CUST00440,29,73.15,Two year,No,None,Yes,24.6,0
+CUST00441,71,65.98,Month-to-month,Yes,Fiber,No,17.4,0
+CUST00442,22,64.59,Month-to-month,Yes,Fiber,No,12.0,1
+CUST00443,10,85.63,One year,No,DSL,No,18.6,1
+CUST00444,36,79.48,Month-to-month,No,Fiber,Yes,9.6,1
+CUST00445,37,78.95,One year,No,DSL,No,10.8,0
+CUST00446,48,81.02,Month-to-month,Yes,Fiber,No,7.8,0
+CUST00447,23,85.55,One year,Yes,DSL,Yes,10.5,0
+CUST00448,69,25.63,Two year,No,Fiber,Yes,27.5,0
+CUST00449,38,63.98,One year,No,Fiber,No,12.9,1
+CUST00450,21,24.04,One year,No,Fiber,Yes,21.3,1
+CUST00451,70,72.79,One year,No,Fiber,Yes,12.1,0
+CUST00452,67,71.9,Two year,Yes,Fiber,Yes,23.3,0
+CUST00453,36,95.0,Two year,No,DSL,Yes,10.8,1
+CUST00454,2,98.13,Month-to-month,No,Fiber,Yes,18.3,1
+CUST00455,43,76.46,One year,No,Fiber,No,18.4,1
+CUST00456,40,60.99,Month-to-month,No,Fiber,Yes,34.3,0
+CUST00457,11,82.67,Two year,No,Fiber,No,22.4,1
+CUST00458,46,60.39,One year,No,DSL,Yes,13.8,0
+CUST00459,61,71.97,Month-to-month,No,None,Yes,22.8,0
+CUST00460,8,93.69,Month-to-month,No,Fiber,Yes,33.0,1
+CUST00461,53,59.73,Month-to-month,No,DSL,No,6.6,0
+CUST00462,11,89.72,One year,No,DSL,No,12.1,1
+CUST00463,54,86.9,Month-to-month,No,None,Yes,16.3,1
+CUST00464,31,50.99,Month-to-month,No,Fiber,Yes,15.1,0
+CUST00465,1,93.43,Two year,No,Fiber,Yes,15.7,0
+CUST00466,70,87.37,One year,No,Fiber,Yes,8.9,0
+CUST00467,12,74.24,Month-to-month,Yes,DSL,No,27.8,1
+CUST00468,43,55.23,Month-to-month,No,DSL,Yes,8.0,1
+CUST00469,14,53.1,Two year,No,Fiber,No,16.6,1
+CUST00470,68,60.17,One year,Yes,Fiber,No,25.3,0
+CUST00471,54,83.94,One year,No,DSL,Yes,17.8,0
+CUST00472,58,50.98,Month-to-month,No,DSL,No,11.1,0
+CUST00473,32,81.63,Month-to-month,Yes,Fiber,Yes,8.6,1
+CUST00474,34,44.68,Month-to-month,No,DSL,No,16.4,0
+CUST00475,46,67.51,One year,No,Fiber,Yes,12.7,1
+CUST00476,57,74.41,Month-to-month,No,Fiber,No,19.4,0
+CUST00477,61,125.79,Month-to-month,Yes,DSL,Yes,8.2,1
+CUST00478,2,41.7,One year,No,DSL,Yes,23.7,0
+CUST00479,48,104.38,Two year,Yes,None,No,18.8,0
+CUST00480,8,75.3,One year,No,Fiber,Yes,19.3,1
+CUST00481,21,81.05,Month-to-month,Yes,Fiber,Yes,28.1,1
+CUST00482,60,74.6,Month-to-month,No,Fiber,No,14.9,0
+CUST00483,19,81.78,Month-to-month,No,Fiber,Yes,12.9,0
+CUST00484,58,68.62,Month-to-month,No,Fiber,No,14.2,1
+CUST00485,34,103.99,Month-to-month,No,Fiber,No,16.7,1
+CUST00486,17,61.96,Month-to-month,No,Fiber,No,17.4,1
+CUST00487,25,96.91,One year,No,Fiber,Yes,12.2,0
+CUST00488,39,57.82,Two year,Yes,Fiber,Yes,3.8,0
+CUST00489,56,70.67,Two year,No,DSL,No,14.1,0
+CUST00490,44,48.42,Month-to-month,No,Fiber,Yes,20.5,0
+CUST00491,68,82.01,Month-to-month,No,DSL,Yes,19.0,0
+CUST00492,63,103.79,Month-to-month,No,None,Yes,26.4,1
+CUST00493,55,70.3,Month-to-month,No,DSL,Yes,31.7,0
+CUST00494,44,67.67,Month-to-month,No,Fiber,No,23.3,0
+CUST00495,21,47.48,Month-to-month,No,Fiber,No,27.7,0
+CUST00496,30,66.96,One year,Yes,DSL,No,23.4,0
+CUST00497,9,36.96,Month-to-month,No,Fiber,No,30.0,1
+CUST00498,27,51.92,Two year,No,Fiber,Yes,31.0,0
+CUST00499,67,76.99,Month-to-month,No,Fiber,Yes,24.7,0
+CUST00500,31,101.02,Month-to-month,No,DSL,Yes,22.9,1
+CUST00501,9,133.8,Month-to-month,Yes,Fiber,No,16.6,1
+CUST00502,47,59.1,Month-to-month,Yes,DSL,Yes,17.7,0
+CUST00503,70,103.58,Month-to-month,No,Fiber,Yes,15.6,0
+CUST00504,63,77.36,Two year,No,Fiber,Yes,22.3,0
+CUST00505,20,68.67,Month-to-month,Yes,DSL,No,13.0,1
+CUST00506,33,81.52,Month-to-month,Yes,Fiber,No,16.7,1
+CUST00507,39,73.36,One year,No,DSL,No,1.5,0
+CUST00508,18,74.43,Month-to-month,No,Fiber,Yes,30.1,1
+CUST00509,20,63.02,One year,Yes,Fiber,No,16.5,1
+CUST00510,18,41.24,Month-to-month,Yes,None,Yes,21.2,1
+CUST00511,72,38.04,One year,No,Fiber,Yes,28.2,0
+CUST00512,54,86.37,Month-to-month,Yes,Fiber,Yes,20.1,0
+CUST00513,61,65.91,Month-to-month,No,None,Yes,28.1,0
+CUST00514,59,58.89,One year,No,DSL,Yes,9.3,0
+CUST00515,70,72.19,Two year,Yes,DSL,Yes,34.8,0
+CUST00516,8,89.49,Month-to-month,No,Fiber,Yes,25.6,1
+CUST00517,64,75.97,One year,Yes,Fiber,No,19.5,1
+CUST00518,5,57.57,Month-to-month,Yes,DSL,No,28.0,1
+CUST00519,35,98.98,Month-to-month,No,Fiber,No,9.8,1
+CUST00520,43,106.74,Month-to-month,No,Fiber,No,16.0,0
+CUST00521,26,82.88,One year,No,DSL,Yes,28.1,0
+CUST00522,11,93.42,Month-to-month,Yes,Fiber,No,4.9,1
+CUST00523,14,99.32,One year,Yes,Fiber,Yes,21.9,1
+CUST00524,60,96.86,Month-to-month,No,Fiber,Yes,21.7,0
+CUST00525,23,85.51,Two year,No,Fiber,Yes,31.8,0
+CUST00526,23,85.16,Two year,No,DSL,No,6.9,0
+CUST00527,67,83.43,Month-to-month,Yes,DSL,Yes,29.3,0
+CUST00528,11,47.86,Month-to-month,No,Fiber,No,14.1,1
+CUST00529,66,87.42,Month-to-month,No,Fiber,Yes,14.9,0
+CUST00530,67,42.17,Two year,No,DSL,Yes,9.4,0
+CUST00531,44,54.52,Month-to-month,Yes,Fiber,Yes,10.4,0
+CUST00532,12,100.68,Month-to-month,No,Fiber,Yes,20.8,1
+CUST00533,12,90.48,Month-to-month,Yes,None,Yes,10.2,1
+CUST00534,21,104.72,One year,No,DSL,No,23.2,1
+CUST00535,42,66.02,Month-to-month,No,Fiber,Yes,13.4,1
+CUST00536,12,46.65,Month-to-month,No,None,Yes,9.5,0
+CUST00537,33,66.71,Two year,No,Fiber,No,14.3,0
+CUST00538,9,74.24,Month-to-month,No,None,Yes,20.4,1
+CUST00539,39,73.74,Two year,No,Fiber,Yes,16.1,0
+CUST00540,2,96.94,Month-to-month,No,Fiber,Yes,18.2,1
+CUST00541,52,64.05,Month-to-month,No,None,Yes,22.9,0
+CUST00542,4,79.74,Two year,Yes,Fiber,Yes,25.6,0
+CUST00543,15,50.25,One year,No,Fiber,No,15.8,0
+CUST00544,13,81.91,One year,No,Fiber,Yes,10.7,1
+CUST00545,60,72.07,Month-to-month,No,DSL,No,18.5,1
+CUST00546,4,55.5,Month-to-month,No,DSL,Yes,21.3,1
+CUST00547,31,66.81,Month-to-month,No,Fiber,No,7.8,1
+CUST00548,43,67.95,Month-to-month,Yes,DSL,No,11.8,1
+CUST00549,38,66.06,Month-to-month,No,DSL,Yes,13.0,1
+CUST00550,50,110.97,Month-to-month,Yes,Fiber,Yes,16.5,1
+CUST00551,58,69.83,Month-to-month,Yes,Fiber,Yes,12.7,0
+CUST00552,29,66.63,Month-to-month,No,Fiber,No,22.9,0
+CUST00553,60,25.86,Month-to-month,Yes,Fiber,No,6.8,0
+CUST00554,23,52.33,Month-to-month,Yes,Fiber,Yes,6.9,0
+CUST00555,71,66.21,Two year,No,Fiber,No,15.7,0
+CUST00556,37,56.91,One year,Yes,Fiber,Yes,16.8,0
+CUST00557,53,102.4,Month-to-month,No,Fiber,Yes,7.8,0
+CUST00558,64,68.37,One year,Yes,DSL,No,13.8,0
+CUST00559,58,100.35,Two year,No,Fiber,Yes,15.2,0
+CUST00560,62,73.36,Month-to-month,No,None,Yes,15.2,0
+CUST00561,39,72.82,Month-to-month,Yes,None,No,19.1,1
+CUST00562,4,70.05,Month-to-month,No,DSL,Yes,13.4,0
+CUST00563,36,72.08,Month-to-month,No,None,No,28.3,0
+CUST00564,14,109.81,One year,No,DSL,Yes,21.4,0
+CUST00565,65,20.97,Two year,Yes,Fiber,Yes,12.4,0
+CUST00566,18,27.97,Month-to-month,No,DSL,Yes,18.7,0
+CUST00567,17,60.05,One year,No,Fiber,No,18.9,0
+CUST00568,18,72.32,Month-to-month,Yes,DSL,Yes,26.5,1
+CUST00569,47,87.18,One year,No,Fiber,Yes,13.8,1
+CUST00570,42,82.41,One year,Yes,Fiber,No,23.4,0
+CUST00571,69,63.55,Month-to-month,No,Fiber,No,18.3,0
+CUST00572,30,94.42,Month-to-month,Yes,None,No,28.4,1
+CUST00573,21,94.66,One year,Yes,Fiber,No,27.0,1
+CUST00574,4,76.05,Two year,No,Fiber,Yes,19.4,1
+CUST00575,1,93.18,Month-to-month,No,Fiber,No,16.2,1
+CUST00576,27,78.0,Month-to-month,No,Fiber,No,21.5,0
+CUST00577,67,59.65,Month-to-month,No,DSL,No,16.7,0
+CUST00578,38,87.35,One year,No,DSL,No,29.8,0
+CUST00579,65,74.43,One year,Yes,Fiber,Yes,18.5,0
+CUST00580,8,72.03,One year,Yes,Fiber,Yes,15.2,1
+CUST00581,7,104.4,One year,No,Fiber,Yes,14.8,1
+CUST00582,61,18.08,Two year,Yes,Fiber,Yes,9.5,0
+CUST00583,8,40.81,One year,No,DSL,Yes,21.9,0
+CUST00584,4,45.88,Month-to-month,Yes,DSL,Yes,12.3,1
+CUST00585,30,64.01,One year,Yes,Fiber,No,25.7,1
+CUST00586,67,66.4,Month-to-month,Yes,DSL,No,8.9,0
+CUST00587,50,38.84,Month-to-month,Yes,Fiber,No,18.9,1
+CUST00588,8,50.33,Two year,Yes,DSL,No,26.1,0
+CUST00589,61,53.06,One year,No,Fiber,No,2.9,0
+CUST00590,61,126.06,Two year,Yes,DSL,No,32.1,0
+CUST00591,58,111.64,Month-to-month,No,Fiber,Yes,15.0,0
+CUST00592,65,62.94,Month-to-month,No,None,No,19.0,0
+CUST00593,18,64.0,Month-to-month,No,Fiber,Yes,22.0,0
+CUST00594,71,46.72,Month-to-month,No,Fiber,Yes,23.1,0
+CUST00595,24,30.02,Month-to-month,Yes,Fiber,Yes,19.9,0
+CUST00596,58,69.43,Month-to-month,Yes,Fiber,No,25.0,1
+CUST00597,42,50.05,Month-to-month,Yes,DSL,No,21.6,1
+CUST00598,57,70.13,Two year,No,DSL,No,30.3,0
+CUST00599,46,36.8,Month-to-month,No,DSL,No,21.7,1
+CUST00600,47,55.24,Month-to-month,Yes,Fiber,No,31.8,0
+CUST00601,45,75.27,One year,No,DSL,Yes,24.3,0
+CUST00602,57,80.06,Month-to-month,No,DSL,No,5.4,1
+CUST00603,54,81.18,Two year,No,Fiber,No,36.3,1
+CUST00604,10,42.95,One year,No,Fiber,No,14.0,0
+CUST00605,60,90.8,Month-to-month,No,Fiber,Yes,28.5,0
+CUST00606,39,54.4,One year,No,Fiber,Yes,18.2,0
+CUST00607,24,85.92,One year,No,DSL,No,25.4,1
+CUST00608,38,71.77,One year,Yes,None,Yes,13.2,0
+CUST00609,70,41.72,One year,Yes,DSL,Yes,22.4,0
+CUST00610,62,65.04,One year,No,Fiber,Yes,16.2,0
+CUST00611,61,80.04,One year,No,DSL,Yes,29.1,0
+CUST00612,34,85.49,Month-to-month,Yes,DSL,Yes,21.1,1
+CUST00613,57,68.9,One year,No,Fiber,No,24.6,0
+CUST00614,28,105.7,Two year,Yes,DSL,No,2.9,1
+CUST00615,50,94.17,One year,No,Fiber,No,17.4,0
+CUST00616,47,66.35,One year,Yes,Fiber,Yes,20.9,1
+CUST00617,18,88.5,Month-to-month,No,Fiber,Yes,19.6,1
+CUST00618,20,114.54,One year,No,Fiber,Yes,24.7,1
+CUST00619,5,115.13,Two year,Yes,DSL,Yes,15.4,0
+CUST00620,11,44.98,Month-to-month,Yes,Fiber,Yes,18.3,1
+CUST00621,32,51.62,Month-to-month,No,Fiber,No,26.3,0
+CUST00622,35,104.67,Month-to-month,Yes,Fiber,No,2.0,1
+CUST00623,12,48.72,Month-to-month,Yes,Fiber,Yes,22.1,1
+CUST00624,31,42.9,One year,No,Fiber,Yes,15.7,0
+CUST00625,44,61.3,Month-to-month,Yes,Fiber,Yes,11.6,0
+CUST00626,17,81.24,Month-to-month,Yes,DSL,Yes,20.4,1
+CUST00627,25,69.75,One year,Yes,Fiber,Yes,26.6,0
+CUST00628,27,57.69,One year,No,DSL,Yes,25.3,0
+CUST00629,37,57.17,One year,Yes,Fiber,Yes,17.1,0
+CUST00630,27,56.33,One year,Yes,DSL,Yes,24.1,0
+CUST00631,54,52.65,One year,Yes,DSL,No,24.1,0
+CUST00632,24,122.2,One year,Yes,Fiber,Yes,17.4,1
+CUST00633,32,78.55,One year,Yes,Fiber,Yes,13.1,0
+CUST00634,28,91.51,Month-to-month,Yes,None,Yes,13.6,1
+CUST00635,14,61.24,One year,Yes,Fiber,Yes,23.9,1
+CUST00636,50,67.91,Month-to-month,Yes,DSL,No,17.7,0
+CUST00637,17,56.3,Month-to-month,No,Fiber,No,10.7,1
+CUST00638,22,18.0,Month-to-month,Yes,Fiber,No,6.2,1
+CUST00639,58,41.68,Two year,Yes,Fiber,No,23.8,0
+CUST00640,69,32.17,One year,No,DSL,Yes,14.2,0
+CUST00641,49,22.5,Month-to-month,No,Fiber,Yes,20.3,0
+CUST00642,66,45.7,One year,No,DSL,Yes,26.7,0
+CUST00643,62,101.15,Month-to-month,Yes,DSL,Yes,8.8,1
+CUST00644,35,71.02,One year,Yes,Fiber,No,17.7,1
+CUST00645,56,100.39,One year,Yes,Fiber,Yes,16.8,1
+CUST00646,24,81.04,One year,Yes,Fiber,Yes,20.7,0
+CUST00647,34,89.22,One year,Yes,Fiber,Yes,26.7,1
+CUST00648,39,52.18,Month-to-month,No,DSL,Yes,8.7,1
+CUST00649,70,83.53,Month-to-month,Yes,Fiber,No,22.0,0
+CUST00650,62,88.03,Two year,No,Fiber,Yes,25.2,1
+CUST00651,36,59.31,One year,Yes,DSL,Yes,16.7,0
+CUST00652,47,84.31,Month-to-month,Yes,DSL,Yes,17.0,1
+CUST00653,15,84.46,Month-to-month,No,Fiber,No,20.9,1
+CUST00654,58,59.91,Month-to-month,No,DSL,Yes,20.4,0
+CUST00655,40,47.3,Month-to-month,Yes,Fiber,No,22.1,0
+CUST00656,39,45.95,Month-to-month,No,DSL,Yes,21.9,1
+CUST00657,56,73.9,Month-to-month,Yes,Fiber,Yes,11.1,0
+CUST00658,46,79.19,Two year,Yes,Fiber,No,24.9,0
+CUST00659,6,54.56,Month-to-month,No,Fiber,Yes,26.2,1
+CUST00660,21,72.58,Month-to-month,Yes,DSL,Yes,19.3,1
+CUST00661,13,84.55,Month-to-month,No,DSL,No,7.5,1
+CUST00662,53,85.6,Month-to-month,No,Fiber,Yes,17.2,0
+CUST00663,3,106.14,One year,Yes,DSL,Yes,19.4,1
+CUST00664,15,100.09,Month-to-month,Yes,DSL,No,10.0,1
+CUST00665,44,49.97,One year,Yes,Fiber,Yes,15.5,0
+CUST00666,51,109.04,One year,No,DSL,Yes,8.1,1
+CUST00667,37,60.32,Month-to-month,No,Fiber,Yes,22.3,1
+CUST00668,62,94.99,One year,Yes,None,No,19.2,1
+CUST00669,67,73.5,Two year,Yes,Fiber,Yes,6.5,0
+CUST00670,10,62.93,Month-to-month,No,Fiber,Yes,20.5,1
+CUST00671,69,32.23,Month-to-month,Yes,Fiber,No,17.6,0
+CUST00672,45,68.23,Two year,No,Fiber,No,21.6,1
+CUST00673,46,37.69,Two year,No,DSL,No,15.3,0
+CUST00674,7,93.28,Month-to-month,No,Fiber,Yes,12.4,1
+CUST00675,45,105.37,One year,Yes,Fiber,Yes,12.6,1
+CUST00676,53,54.47,Month-to-month,Yes,Fiber,Yes,14.2,0
+CUST00677,42,78.64,One year,Yes,DSL,No,18.1,0
+CUST00678,7,56.04,Month-to-month,No,DSL,Yes,19.0,1
+CUST00679,38,58.17,Month-to-month,No,Fiber,Yes,16.7,1
+CUST00680,68,89.04,One year,Yes,Fiber,Yes,15.0,0
+CUST00681,53,71.15,Two year,No,Fiber,No,15.5,1
+CUST00682,10,110.27,One year,No,DSL,No,35.6,1
+CUST00683,70,61.39,Month-to-month,Yes,DSL,Yes,12.6,0
+CUST00684,70,93.99,Month-to-month,Yes,DSL,No,14.1,1
+CUST00685,13,74.14,Two year,Yes,DSL,No,41.1,1
+CUST00686,58,89.51,Two year,No,Fiber,Yes,20.9,0
+CUST00687,30,62.16,Month-to-month,No,DSL,Yes,8.3,0
+CUST00688,43,70.91,One year,No,Fiber,No,23.9,0
+CUST00689,33,69.46,Month-to-month,No,Fiber,Yes,11.6,0
+CUST00690,57,53.61,Month-to-month,No,Fiber,Yes,24.4,0
+CUST00691,72,86.57,Month-to-month,No,Fiber,Yes,16.5,0
+CUST00692,58,86.31,Month-to-month,No,None,No,14.9,0
+CUST00693,68,85.06,Month-to-month,No,Fiber,Yes,29.3,1
+CUST00694,69,105.81,Two year,No,DSL,No,22.0,0
+CUST00695,7,103.89,Month-to-month,No,DSL,Yes,24.8,1
+CUST00696,19,63.75,Month-to-month,No,DSL,Yes,21.0,0
+CUST00697,52,80.21,Month-to-month,No,None,No,14.9,1
+CUST00698,43,58.28,Month-to-month,No,Fiber,Yes,22.3,0
+CUST00699,4,72.51,Month-to-month,No,Fiber,Yes,26.5,1
+CUST00700,7,58.81,One year,No,Fiber,Yes,18.9,0
+CUST00701,38,107.64,Month-to-month,No,Fiber,No,30.6,1
+CUST00702,45,80.0,One year,No,DSL,Yes,24.0,1
+CUST00703,13,67.2,Two year,No,Fiber,Yes,19.5,0
+CUST00704,13,98.26,Month-to-month,No,Fiber,Yes,19.8,1
+CUST00705,10,24.25,Two year,No,Fiber,Yes,19.0,0
+CUST00706,41,27.69,Two year,Yes,Fiber,Yes,9.2,0
+CUST00707,1,89.51,One year,No,DSL,Yes,17.4,0
+CUST00708,42,73.33,One year,No,Fiber,Yes,19.5,0
+CUST00709,35,77.51,One year,No,DSL,Yes,15.1,0
+CUST00710,34,42.82,One year,No,DSL,No,20.4,0
+CUST00711,49,71.49,One year,No,DSL,No,18.1,1
+CUST00712,38,116.08,Month-to-month,No,Fiber,Yes,23.4,1
+CUST00713,53,90.13,Two year,Yes,DSL,Yes,22.6,0
+CUST00714,56,75.73,One year,No,Fiber,Yes,19.2,0
+CUST00715,67,62.34,One year,Yes,Fiber,No,8.4,0
+CUST00716,58,63.32,Month-to-month,No,DSL,Yes,30.5,0
+CUST00717,38,25.16,Month-to-month,No,DSL,Yes,17.0,0
+CUST00718,36,77.67,Month-to-month,No,Fiber,Yes,17.4,0
+CUST00719,17,90.6,Month-to-month,Yes,DSL,Yes,15.6,1
+CUST00720,44,37.34,Month-to-month,Yes,Fiber,Yes,14.6,0
+CUST00721,11,57.45,Month-to-month,No,DSL,Yes,28.8,0
+CUST00722,68,46.54,Month-to-month,No,None,No,27.7,0
+CUST00723,61,50.76,Month-to-month,Yes,DSL,No,21.1,0
+CUST00724,9,73.18,Month-to-month,No,DSL,No,17.2,1
+CUST00725,57,26.14,Two year,Yes,DSL,No,22.3,0
+CUST00726,9,85.51,Month-to-month,No,DSL,Yes,18.5,1
+CUST00727,52,88.58,Month-to-month,Yes,DSL,No,16.7,0
+CUST00728,7,66.48,Month-to-month,Yes,DSL,No,20.4,0
+CUST00729,36,18.0,Month-to-month,Yes,Fiber,No,14.9,0
+CUST00730,48,50.08,Month-to-month,No,DSL,No,19.8,1
+CUST00731,53,99.12,One year,No,Fiber,Yes,19.4,1
+CUST00732,31,18.0,Two year,No,None,Yes,22.2,0
+CUST00733,67,64.35,Month-to-month,No,Fiber,Yes,13.7,1
+CUST00734,56,46.04,One year,Yes,Fiber,Yes,23.0,0
+CUST00735,15,89.7,Month-to-month,Yes,DSL,Yes,11.7,1
+CUST00736,49,57.15,Month-to-month,Yes,Fiber,Yes,14.0,0
+CUST00737,53,80.89,Month-to-month,No,Fiber,Yes,14.3,0
+CUST00738,25,84.44,Month-to-month,Yes,DSL,No,10.5,1
+CUST00739,54,112.4,One year,No,Fiber,No,25.1,1
+CUST00740,65,67.54,One year,Yes,Fiber,Yes,11.2,0
+CUST00741,59,80.27,One year,Yes,Fiber,Yes,13.1,0
+CUST00742,55,39.33,Month-to-month,Yes,Fiber,No,26.8,0
+CUST00743,46,98.19,One year,Yes,Fiber,No,14.0,0
+CUST00744,20,55.27,Month-to-month,No,Fiber,No,16.7,1
+CUST00745,58,59.66,Month-to-month,No,Fiber,No,10.9,0
+CUST00746,27,71.51,Month-to-month,Yes,Fiber,Yes,23.8,0
+CUST00747,39,37.62,One year,No,Fiber,Yes,23.9,0
+CUST00748,23,77.03,Two year,No,DSL,No,23.2,0
+CUST00749,23,93.28,Month-to-month,No,DSL,No,21.8,1
+CUST00750,12,78.44,One year,No,Fiber,Yes,18.5,1
+CUST00751,70,37.04,One year,No,Fiber,Yes,14.3,0
+CUST00752,11,69.28,One year,No,DSL,Yes,12.3,0
+CUST00753,7,88.32,Month-to-month,No,DSL,Yes,27.0,1
+CUST00754,68,30.68,One year,No,Fiber,No,23.4,0
+CUST00755,40,48.36,One year,No,Fiber,No,13.1,0
+CUST00756,32,91.28,Two year,Yes,Fiber,Yes,18.3,0
+CUST00757,54,77.94,Month-to-month,No,DSL,Yes,15.9,0
+CUST00758,28,81.06,Two year,No,None,Yes,10.1,0
+CUST00759,10,112.91,Month-to-month,Yes,None,Yes,19.2,1
+CUST00760,53,82.31,Two year,No,Fiber,Yes,15.1,0
+CUST00761,13,86.47,Month-to-month,No,Fiber,No,11.3,1
+CUST00762,40,131.64,Month-to-month,Yes,Fiber,No,7.6,0
+CUST00763,69,67.3,Month-to-month,No,Fiber,Yes,7.1,0
+CUST00764,68,54.45,Month-to-month,No,Fiber,No,15.4,0
+CUST00765,26,81.41,Month-to-month,No,DSL,No,17.4,1
+CUST00766,57,81.66,Month-to-month,Yes,Fiber,Yes,11.9,1
+CUST00767,45,60.41,Month-to-month,Yes,None,No,22.6,0
+CUST00768,35,49.29,Month-to-month,No,Fiber,No,17.5,1
+CUST00769,11,122.82,One year,Yes,Fiber,No,22.0,1
+CUST00770,28,79.19,Two year,Yes,DSL,Yes,16.7,0
+CUST00771,47,55.89,One year,Yes,DSL,Yes,12.5,0
+CUST00772,72,92.15,Month-to-month,Yes,Fiber,Yes,18.8,0
+CUST00773,1,69.6,Month-to-month,No,DSL,Yes,9.2,1
+CUST00774,52,66.44,Two year,No,Fiber,Yes,21.8,0
+CUST00775,61,84.37,Month-to-month,No,Fiber,No,11.4,1
+CUST00776,69,43.58,Month-to-month,No,Fiber,Yes,24.4,0
+CUST00777,31,79.76,Two year,Yes,Fiber,Yes,15.6,0
+CUST00778,9,114.09,Two year,Yes,DSL,No,25.4,0
+CUST00779,20,82.26,Month-to-month,Yes,Fiber,Yes,10.1,0
+CUST00780,62,63.72,One year,Yes,DSL,Yes,13.3,0
+CUST00781,64,60.84,Month-to-month,Yes,DSL,Yes,20.7,0
+CUST00782,46,62.97,One year,Yes,Fiber,Yes,26.2,0
+CUST00783,9,66.41,Month-to-month,Yes,Fiber,Yes,29.7,1
+CUST00784,9,63.69,Month-to-month,Yes,Fiber,No,18.3,1
+CUST00785,35,92.16,One year,No,DSL,Yes,30.9,0
+CUST00786,43,33.87,Month-to-month,No,DSL,Yes,16.0,1
+CUST00787,3,90.96,One year,No,DSL,Yes,25.7,1
+CUST00788,50,63.65,Month-to-month,No,Fiber,No,11.4,0
+CUST00789,40,80.29,Two year,No,Fiber,Yes,20.9,0
+CUST00790,1,47.21,One year,Yes,DSL,No,1.6,0
+CUST00791,7,101.23,Month-to-month,No,Fiber,Yes,10.1,1
+CUST00792,33,99.4,One year,Yes,DSL,No,21.3,0
+CUST00793,53,93.11,Month-to-month,No,Fiber,Yes,8.8,1
+CUST00794,60,38.68,Month-to-month,Yes,Fiber,Yes,21.0,0
+CUST00795,32,90.24,Month-to-month,No,Fiber,Yes,24.3,1
+CUST00796,22,80.91,Two year,Yes,Fiber,No,14.5,0
+CUST00797,70,36.68,One year,No,DSL,Yes,11.2,0
+CUST00798,34,71.47,Two year,No,Fiber,Yes,14.7,0
+CUST00799,23,80.02,Two year,No,None,Yes,11.2,0
+CUST00800,32,84.23,Two year,No,DSL,Yes,17.3,1
+CUST00801,1,75.9,Month-to-month,No,DSL,Yes,18.7,1
+CUST00802,22,78.41,Two year,Yes,DSL,Yes,15.9,0
+CUST00803,38,104.42,One year,No,DSL,Yes,29.7,0
+CUST00804,67,98.97,Month-to-month,No,DSL,Yes,13.0,0
+CUST00805,54,18.0,One year,Yes,Fiber,Yes,27.7,0
+CUST00806,57,65.02,Month-to-month,Yes,Fiber,Yes,10.7,0
+CUST00807,40,68.38,Month-to-month,No,DSL,Yes,18.5,0
+CUST00808,8,33.45,Month-to-month,No,Fiber,Yes,26.3,1
+CUST00809,29,74.07,Month-to-month,No,Fiber,No,25.9,1
+CUST00810,72,99.47,Month-to-month,No,DSL,Yes,15.1,1
+CUST00811,4,48.1,Two year,Yes,Fiber,No,21.9,1
+CUST00812,64,79.4,One year,No,DSL,Yes,20.9,0
+CUST00813,50,51.85,Month-to-month,Yes,DSL,Yes,14.2,0
+CUST00814,21,57.22,Month-to-month,No,Fiber,Yes,22.3,1
+CUST00815,57,104.5,Month-to-month,No,DSL,Yes,31.0,1
+CUST00816,61,60.06,Month-to-month,Yes,Fiber,No,21.3,0
+CUST00817,4,82.17,One year,No,DSL,No,22.0,1
+CUST00818,8,30.83,Month-to-month,Yes,DSL,Yes,22.7,0
+CUST00819,48,112.97,One year,No,Fiber,No,7.8,1
+CUST00820,72,85.26,One year,No,Fiber,Yes,21.2,0
+CUST00821,2,67.99,One year,No,Fiber,Yes,10.9,0
+CUST00822,48,84.66,Two year,No,Fiber,No,13.9,1
+CUST00823,10,40.98,Month-to-month,No,Fiber,Yes,33.1,0
+CUST00824,47,98.02,Two year,No,None,Yes,16.2,0
+CUST00825,45,64.87,One year,No,Fiber,No,12.8,0
+CUST00826,7,67.51,One year,No,DSL,No,26.1,0
+CUST00827,50,61.18,One year,Yes,Fiber,No,11.4,0
+CUST00828,65,59.23,Two year,Yes,None,Yes,14.9,0
+CUST00829,63,87.28,Two year,No,Fiber,No,26.7,0
+CUST00830,3,77.63,Month-to-month,Yes,Fiber,Yes,18.3,1
+CUST00831,18,86.34,One year,Yes,DSL,Yes,7.1,1
+CUST00832,18,71.81,One year,Yes,Fiber,Yes,21.8,0
+CUST00833,33,83.29,Month-to-month,No,DSL,No,15.2,1
+CUST00834,11,62.79,Two year,Yes,Fiber,No,28.8,0
+CUST00835,62,121.05,Month-to-month,No,DSL,No,13.8,1
+CUST00836,56,37.51,One year,No,DSL,Yes,25.4,0
+CUST00837,59,99.74,Month-to-month,No,DSL,Yes,30.4,1
+CUST00838,15,102.09,Month-to-month,Yes,Fiber,Yes,12.0,1
+CUST00839,2,53.25,Two year,No,Fiber,No,16.6,0
+CUST00840,66,121.04,Month-to-month,Yes,Fiber,Yes,20.7,0
+CUST00841,21,93.9,Month-to-month,No,Fiber,Yes,12.0,1
+CUST00842,48,93.37,Month-to-month,Yes,Fiber,No,19.9,0
+CUST00843,66,72.62,Month-to-month,No,None,Yes,16.4,0
+CUST00844,3,67.22,One year,Yes,Fiber,No,16.3,1
+CUST00845,1,67.39,Two year,No,DSL,Yes,18.3,1
+CUST00846,1,80.59,Month-to-month,Yes,Fiber,No,18.5,1
+CUST00847,12,102.83,One year,No,Fiber,Yes,19.1,1
+CUST00848,4,75.99,Month-to-month,No,Fiber,Yes,13.8,1
+CUST00849,60,51.95,One year,Yes,Fiber,Yes,14.1,0
+CUST00850,44,90.14,Month-to-month,Yes,Fiber,Yes,17.2,1
+CUST00851,71,92.27,Month-to-month,Yes,Fiber,No,17.7,0
+CUST00852,58,86.4,Month-to-month,Yes,Fiber,Yes,14.9,0
+CUST00853,70,88.4,One year,No,None,Yes,20.3,0
+CUST00854,18,66.04,Month-to-month,Yes,Fiber,No,5.3,1
+CUST00855,21,51.56,Month-to-month,Yes,Fiber,Yes,12.9,0
+CUST00856,62,52.9,One year,No,Fiber,No,16.0,0
+CUST00857,18,36.02,One year,Yes,Fiber,No,12.0,0
+CUST00858,5,77.21,Month-to-month,Yes,DSL,Yes,29.4,1
+CUST00859,49,70.16,One year,No,Fiber,No,18.1,0
+CUST00860,58,62.32,Two year,No,DSL,Yes,19.2,0
+CUST00861,70,18.0,Month-to-month,No,Fiber,Yes,14.6,0
+CUST00862,67,44.56,One year,No,Fiber,Yes,17.9,0
+CUST00863,9,96.66,Month-to-month,No,None,No,9.5,1
+CUST00864,56,57.38,One year,Yes,Fiber,Yes,16.8,0
+CUST00865,61,79.93,Month-to-month,No,DSL,Yes,11.4,0
+CUST00866,51,41.4,One year,No,Fiber,No,16.1,0
+CUST00867,60,103.65,Month-to-month,No,None,Yes,1.0,1
+CUST00868,61,68.83,Month-to-month,Yes,Fiber,No,10.1,0
+CUST00869,33,78.38,Two year,Yes,Fiber,No,28.2,0
+CUST00870,3,123.17,Month-to-month,No,DSL,No,23.8,1
+CUST00871,33,105.36,Two year,No,Fiber,No,27.2,0
+CUST00872,15,65.26,Two year,No,Fiber,No,27.7,1
+CUST00873,9,58.95,Two year,No,None,Yes,22.7,0
+CUST00874,9,64.84,Month-to-month,No,DSL,No,14.8,1
+CUST00875,51,83.22,One year,Yes,DSL,No,10.7,0
+CUST00876,37,69.69,Month-to-month,Yes,DSL,No,26.0,0
+CUST00877,39,63.3,Month-to-month,Yes,DSL,Yes,18.5,0
+CUST00878,54,104.28,Two year,Yes,DSL,No,35.5,0
+CUST00879,40,69.49,One year,Yes,DSL,Yes,15.4,0
+CUST00880,46,122.59,Month-to-month,No,Fiber,Yes,31.8,1
+CUST00881,7,74.0,Month-to-month,No,Fiber,Yes,16.9,1
+CUST00882,62,111.28,One year,No,DSL,Yes,27.4,1
+CUST00883,33,79.86,One year,Yes,DSL,No,29.9,0
+CUST00884,12,93.19,Month-to-month,No,Fiber,Yes,10.8,0
+CUST00885,59,56.06,Two year,No,Fiber,No,14.6,1
+CUST00886,53,53.22,Month-to-month,No,Fiber,No,10.8,0
+CUST00887,4,82.11,Month-to-month,No,Fiber,Yes,9.4,1
+CUST00888,14,93.75,One year,No,DSL,No,22.7,1
+CUST00889,2,72.89,Two year,No,Fiber,Yes,16.6,0
+CUST00890,20,43.7,Month-to-month,No,DSL,No,18.4,0
+CUST00891,8,42.07,Month-to-month,No,DSL,No,21.9,1
+CUST00892,52,40.6,Month-to-month,Yes,None,Yes,5.0,0
+CUST00893,38,33.11,Two year,Yes,Fiber,No,27.0,0
+CUST00894,71,74.41,Month-to-month,Yes,None,Yes,15.6,0
+CUST00895,54,96.75,Month-to-month,No,DSL,Yes,21.7,0
+CUST00896,45,71.7,Two year,No,DSL,No,22.3,0
+CUST00897,37,22.27,Month-to-month,No,Fiber,Yes,27.6,0
+CUST00898,4,67.8,One year,No,Fiber,No,17.3,1
+CUST00899,6,68.42,Month-to-month,Yes,DSL,Yes,3.1,1
+CUST00900,45,118.11,One year,No,Fiber,Yes,18.4,0
+CUST00901,1,39.94,Month-to-month,Yes,Fiber,No,19.4,1
+CUST00902,4,63.41,Month-to-month,No,DSL,Yes,10.8,1
+CUST00903,16,109.53,Month-to-month,Yes,DSL,No,19.0,1
+CUST00904,64,81.9,One year,No,Fiber,Yes,15.5,0
+CUST00905,34,84.39,One year,No,Fiber,No,8.6,0
+CUST00906,52,74.52,Month-to-month,No,Fiber,No,22.7,0
+CUST00907,30,79.26,Month-to-month,Yes,None,Yes,14.1,0
+CUST00908,13,89.11,Two year,No,None,Yes,15.2,0
+CUST00909,27,54.19,Month-to-month,No,Fiber,Yes,14.8,0
+CUST00910,7,91.32,Month-to-month,No,Fiber,No,26.6,1
+CUST00911,56,41.79,One year,No,Fiber,Yes,17.7,0
+CUST00912,14,79.22,Month-to-month,Yes,Fiber,Yes,18.6,0
+CUST00913,28,75.93,Month-to-month,No,DSL,No,14.9,1
+CUST00914,71,58.44,Month-to-month,Yes,Fiber,Yes,21.2,0
+CUST00915,43,71.5,Month-to-month,Yes,Fiber,Yes,27.4,0
+CUST00916,34,58.3,Month-to-month,No,Fiber,Yes,22.5,0
+CUST00917,40,48.42,One year,No,Fiber,Yes,22.8,0
+CUST00918,57,64.22,One year,Yes,DSL,No,22.2,0
+CUST00919,19,47.71,Month-to-month,Yes,DSL,No,8.3,1
+CUST00920,46,79.1,Two year,Yes,DSL,No,11.9,0
+CUST00921,63,46.7,Month-to-month,Yes,Fiber,No,16.6,0
+CUST00922,42,87.66,One year,No,None,Yes,12.9,1
+CUST00923,33,46.01,Month-to-month,Yes,Fiber,Yes,10.5,0
+CUST00924,11,59.54,One year,No,DSL,No,4.9,1
+CUST00925,18,58.26,Month-to-month,Yes,DSL,No,8.6,0
+CUST00926,69,101.15,Month-to-month,Yes,Fiber,No,16.2,0
+CUST00927,39,79.27,Month-to-month,No,DSL,Yes,17.5,0
+CUST00928,22,67.34,Month-to-month,Yes,Fiber,No,12.4,1
+CUST00929,31,82.97,Month-to-month,No,DSL,No,18.6,1
+CUST00930,42,25.64,One year,No,Fiber,No,15.0,1
+CUST00931,39,71.05,Two year,No,Fiber,No,25.6,0
+CUST00932,51,115.95,Month-to-month,No,Fiber,Yes,16.9,1
+CUST00933,19,74.91,Two year,Yes,Fiber,Yes,22.9,0
+CUST00934,47,73.49,One year,No,Fiber,Yes,19.4,0
+CUST00935,32,84.06,Two year,No,Fiber,Yes,8.2,0
+CUST00936,68,91.7,One year,No,DSL,No,17.4,1
+CUST00937,12,28.06,One year,Yes,Fiber,Yes,9.4,1
+CUST00938,11,34.99,Month-to-month,Yes,Fiber,Yes,17.2,0
+CUST00939,34,76.63,One year,Yes,None,Yes,12.8,0
+CUST00940,37,56.27,Two year,Yes,None,No,20.7,0
+CUST00941,50,100.86,Month-to-month,No,Fiber,Yes,8.6,0
+CUST00942,30,65.07,Month-to-month,Yes,Fiber,Yes,18.1,0
+CUST00943,66,29.44,Month-to-month,Yes,DSL,No,22.0,0
+CUST00944,35,44.1,Two year,Yes,DSL,Yes,24.4,0
+CUST00945,10,18.0,Month-to-month,No,Fiber,Yes,12.7,0
+CUST00946,9,66.85,One year,Yes,DSL,Yes,18.1,0
+CUST00947,71,67.86,Two year,No,Fiber,Yes,19.3,0
+CUST00948,10,62.66,Two year,Yes,Fiber,No,28.8,1
+CUST00949,69,95.74,Month-to-month,No,DSL,No,7.6,0
+CUST00950,21,98.37,One year,Yes,DSL,Yes,11.6,0
+CUST00951,7,68.25,Two year,No,DSL,No,37.6,0
+CUST00952,22,25.04,Month-to-month,Yes,Fiber,No,16.1,1
+CUST00953,45,85.58,One year,Yes,Fiber,Yes,4.8,0
+CUST00954,31,84.22,Month-to-month,Yes,Fiber,Yes,13.9,1
+CUST00955,57,78.81,One year,Yes,Fiber,Yes,1.0,0
+CUST00956,44,93.59,Month-to-month,Yes,Fiber,No,19.7,1
+CUST00957,29,46.37,Month-to-month,No,Fiber,Yes,23.7,0
+CUST00958,46,116.19,Month-to-month,No,DSL,Yes,11.6,1
+CUST00959,70,50.89,Month-to-month,Yes,DSL,No,14.7,0
+CUST00960,30,88.48,Month-to-month,No,Fiber,No,24.5,1
+CUST00961,12,34.88,One year,No,Fiber,No,5.7,0
+CUST00962,30,51.53,Month-to-month,Yes,DSL,No,8.7,0
+CUST00963,61,105.36,Month-to-month,Yes,Fiber,Yes,16.4,0
+CUST00964,16,66.26,One year,Yes,DSL,No,12.7,0
+CUST00965,69,90.48,One year,Yes,Fiber,Yes,15.9,0
+CUST00966,43,77.21,Month-to-month,No,DSL,Yes,9.2,0
+CUST00967,44,69.69,Two year,No,DSL,No,19.5,1
+CUST00968,23,102.0,Month-to-month,No,DSL,Yes,17.0,0
+CUST00969,67,66.79,Two year,No,DSL,Yes,21.8,0
+CUST00970,3,32.82,Month-to-month,No,DSL,No,19.4,0
+CUST00971,22,54.33,One year,Yes,Fiber,Yes,19.4,0
+CUST00972,31,84.13,Two year,Yes,DSL,Yes,7.9,1
+CUST00973,35,80.7,Two year,Yes,DSL,No,21.4,1
+CUST00974,35,37.52,One year,Yes,None,No,15.7,0
+CUST00975,11,56.06,One year,Yes,Fiber,No,16.8,1
+CUST00976,17,59.2,Month-to-month,No,Fiber,Yes,25.3,0
+CUST00977,7,63.96,One year,Yes,DSL,Yes,13.0,1
+CUST00978,42,41.73,One year,Yes,DSL,No,27.5,0
+CUST00979,26,58.18,Two year,No,Fiber,Yes,28.1,0
+CUST00980,41,55.97,Month-to-month,Yes,Fiber,Yes,23.3,0
+CUST00981,43,88.97,Month-to-month,No,Fiber,Yes,11.1,1
+CUST00982,51,89.8,One year,Yes,Fiber,Yes,2.7,1
+CUST00983,40,68.79,Month-to-month,No,Fiber,Yes,25.6,1
+CUST00984,47,63.38,Month-to-month,Yes,Fiber,No,18.8,1
+CUST00985,43,75.08,Month-to-month,No,Fiber,No,12.8,0
+CUST00986,47,54.04,One year,Yes,None,Yes,26.2,1
+CUST00987,45,46.77,Month-to-month,Yes,Fiber,No,12.0,0
+CUST00988,23,51.32,Month-to-month,No,Fiber,Yes,15.0,0
+CUST00989,18,58.03,Month-to-month,Yes,Fiber,Yes,21.7,0
+CUST00990,57,46.4,Two year,Yes,Fiber,No,10.2,0
+CUST00991,25,75.57,One year,No,None,Yes,17.2,0
+CUST00992,40,88.05,Month-to-month,Yes,None,No,25.6,0
+CUST00993,15,37.08,Month-to-month,No,Fiber,Yes,19.5,0
+CUST00994,32,72.55,One year,No,Fiber,Yes,26.7,0
+CUST00995,39,67.16,Month-to-month,Yes,Fiber,Yes,25.9,0
+CUST00996,46,79.51,One year,No,Fiber,Yes,18.1,1
+CUST00997,38,71.72,Month-to-month,Yes,Fiber,No,1.6,1
+CUST00998,26,40.02,Two year,No,Fiber,No,10.3,0
+CUST00999,70,44.23,Month-to-month,Yes,Fiber,Yes,23.3,0
+CUST01000,37,72.65,One year,Yes,DSL,Yes,7.1,0
+CUST01001,59,94.63,Month-to-month,Yes,Fiber,No,15.7,1
+CUST01002,54,23.29,Two year,No,Fiber,No,20.4,0
+CUST01003,41,79.61,Two year,No,Fiber,Yes,28.3,0
+CUST01004,64,98.17,One year,No,Fiber,Yes,14.0,0
+CUST01005,10,68.63,Month-to-month,No,Fiber,Yes,13.5,0
+CUST01006,67,84.1,Month-to-month,No,Fiber,Yes,17.6,1
+CUST01007,62,56.53,One year,No,Fiber,Yes,20.5,0
+CUST01008,37,69.37,One year,No,Fiber,Yes,16.9,1
+CUST01009,53,36.34,Month-to-month,No,DSL,Yes,25.3,0
+CUST01010,38,20.42,Month-to-month,Yes,None,Yes,12.4,0
+CUST01011,20,92.74,Month-to-month,No,Fiber,Yes,18.8,1
+CUST01012,58,50.33,One year,No,Fiber,No,21.1,0
+CUST01013,18,61.98,One year,Yes,DSL,No,15.2,0
+CUST01014,23,41.5,One year,Yes,DSL,Yes,23.9,0
+CUST01015,38,40.98,One year,Yes,Fiber,Yes,19.0,0
+CUST01016,61,68.18,Month-to-month,No,Fiber,Yes,23.5,1
+CUST01017,28,55.95,Month-to-month,Yes,Fiber,No,19.4,0
+CUST01018,36,80.32,Month-to-month,No,DSL,No,20.6,1
+CUST01019,3,81.96,One year,No,Fiber,Yes,13.6,1
+CUST01020,9,79.06,Month-to-month,No,Fiber,No,13.6,1
+CUST01021,5,77.25,Month-to-month,Yes,Fiber,No,26.6,0
+CUST01022,6,106.71,Month-to-month,No,Fiber,No,22.4,1
+CUST01023,63,48.51,Month-to-month,No,Fiber,Yes,10.8,0
+CUST01024,61,70.79,One year,Yes,DSL,Yes,19.3,0
+CUST01025,60,96.92,Month-to-month,Yes,Fiber,No,1.4,1
+CUST01026,5,99.82,Month-to-month,Yes,Fiber,Yes,14.0,1
+CUST01027,6,40.72,One year,Yes,Fiber,No,24.7,0
+CUST01028,21,65.13,Month-to-month,No,DSL,No,17.1,1
+CUST01029,41,101.88,Month-to-month,No,Fiber,Yes,18.8,1
+CUST01030,25,83.18,Month-to-month,No,Fiber,Yes,1.0,0
+CUST01031,36,76.3,One year,No,Fiber,Yes,15.3,0
+CUST01032,13,67.21,Month-to-month,No,DSL,Yes,20.4,0
+CUST01033,53,63.56,One year,No,DSL,No,21.3,0
+CUST01034,23,78.34,Two year,No,DSL,No,24.7,0
+CUST01035,5,66.45,One year,Yes,DSL,Yes,16.5,1
+CUST01036,54,71.06,Month-to-month,No,Fiber,No,16.8,0
+CUST01037,66,73.73,One year,Yes,Fiber,Yes,8.7,0
+CUST01038,2,57.08,Month-to-month,No,Fiber,No,16.6,1
+CUST01039,32,83.71,Month-to-month,No,DSL,Yes,9.2,0
+CUST01040,60,136.11,Month-to-month,No,DSL,No,5.1,0
+CUST01041,51,32.91,Month-to-month,Yes,Fiber,No,10.4,0
+CUST01042,62,79.13,Month-to-month,No,DSL,Yes,28.6,0
+CUST01043,30,55.28,Month-to-month,Yes,Fiber,Yes,16.1,0
+CUST01044,27,84.7,Month-to-month,No,Fiber,No,19.5,1
+CUST01045,52,73.02,Month-to-month,Yes,Fiber,Yes,14.4,0
+CUST01046,12,88.76,One year,No,DSL,No,5.5,1
+CUST01047,18,97.86,Two year,No,None,No,24.6,0
+CUST01048,44,76.23,Month-to-month,Yes,Fiber,No,2.8,1
+CUST01049,49,96.91,One year,Yes,None,Yes,14.1,1
+CUST01050,9,20.43,Month-to-month,No,DSL,No,17.6,1
+CUST01051,37,106.99,Month-to-month,Yes,DSL,No,19.6,1
+CUST01052,27,80.25,Month-to-month,Yes,DSL,Yes,12.9,1
+CUST01053,37,95.71,Month-to-month,Yes,Fiber,Yes,5.1,1
+CUST01054,70,45.16,Month-to-month,Yes,DSL,Yes,12.4,0
+CUST01055,6,53.72,Month-to-month,No,DSL,No,12.8,1
+CUST01056,72,75.21,Month-to-month,No,DSL,Yes,12.6,0
+CUST01057,33,71.63,Month-to-month,Yes,Fiber,Yes,24.8,0
+CUST01058,56,78.23,Month-to-month,No,DSL,Yes,9.5,0
+CUST01059,31,95.86,Month-to-month,Yes,None,No,20.1,1
+CUST01060,23,33.17,Month-to-month,Yes,Fiber,Yes,19.1,1
+CUST01061,56,93.42,Month-to-month,No,None,No,24.7,0
+CUST01062,50,72.18,Month-to-month,Yes,Fiber,No,17.1,0
+CUST01063,11,67.52,Month-to-month,No,Fiber,No,23.5,0
+CUST01064,51,39.64,Month-to-month,No,Fiber,No,16.8,0
+CUST01065,55,83.07,Month-to-month,No,DSL,Yes,21.0,0
+CUST01066,28,18.89,Two year,No,DSL,No,7.5,0
+CUST01067,67,86.26,Month-to-month,Yes,Fiber,Yes,1.0,0
+CUST01068,47,39.17,Month-to-month,Yes,DSL,No,20.6,0
+CUST01069,25,73.18,Month-to-month,Yes,Fiber,Yes,21.0,1
+CUST01070,1,69.38,Two year,No,Fiber,No,21.3,1
+CUST01071,49,97.73,One year,No,DSL,No,14.3,0
+CUST01072,16,68.07,One year,Yes,DSL,Yes,28.4,0
+CUST01073,55,56.73,Two year,Yes,DSL,No,14.8,0
+CUST01074,38,60.85,Month-to-month,Yes,DSL,Yes,20.9,0
+CUST01075,34,100.0,Two year,No,None,Yes,22.2,0
+CUST01076,12,83.8,Month-to-month,No,Fiber,Yes,30.0,1
+CUST01077,52,63.52,One year,No,Fiber,Yes,15.8,1
+CUST01078,12,66.8,Month-to-month,No,Fiber,No,13.4,1
+CUST01079,31,37.52,Month-to-month,Yes,DSL,No,7.5,0
+CUST01080,61,80.55,Two year,No,DSL,Yes,28.9,0
+CUST01081,67,33.28,Month-to-month,No,DSL,No,20.9,0
+CUST01082,72,88.54,Two year,Yes,Fiber,No,21.2,0
+CUST01083,69,74.83,Month-to-month,No,Fiber,No,39.8,0
+CUST01084,41,124.51,One year,Yes,DSL,Yes,20.3,1
+CUST01085,15,47.8,Two year,No,None,No,8.9,1
+CUST01086,61,69.74,Month-to-month,No,Fiber,Yes,16.6,1
+CUST01087,58,111.56,Two year,No,Fiber,No,11.2,0
+CUST01088,72,98.21,One year,No,Fiber,No,15.2,0
+CUST01089,47,56.68,One year,Yes,Fiber,No,15.2,0
+CUST01090,11,76.93,Month-to-month,No,Fiber,Yes,13.9,1
+CUST01091,37,72.04,Month-to-month,No,Fiber,Yes,8.2,1
+CUST01092,33,78.2,One year,No,DSL,No,29.1,1
+CUST01093,61,56.63,Month-to-month,No,Fiber,Yes,20.1,1
+CUST01094,29,70.03,Month-to-month,Yes,Fiber,Yes,16.4,1
+CUST01095,24,36.84,Month-to-month,No,Fiber,No,23.3,0
+CUST01096,6,74.97,Two year,No,None,No,21.3,0
+CUST01097,61,81.9,Month-to-month,Yes,Fiber,Yes,19.9,0
+CUST01098,55,67.0,One year,No,Fiber,Yes,22.8,1
+CUST01099,3,36.47,Two year,No,Fiber,No,18.9,0
+CUST01100,32,93.75,Month-to-month,No,DSL,Yes,22.7,1
+CUST01101,35,80.02,Month-to-month,No,DSL,Yes,23.3,1
+CUST01102,34,56.03,One year,Yes,Fiber,Yes,19.1,0
+CUST01103,67,65.83,Month-to-month,No,Fiber,Yes,16.5,1
+CUST01104,11,38.99,One year,Yes,Fiber,No,28.7,0
+CUST01105,23,49.44,One year,No,DSL,Yes,14.7,0
+CUST01106,14,60.17,One year,No,None,Yes,20.7,1
+CUST01107,18,99.03,Month-to-month,No,Fiber,Yes,20.9,1
+CUST01108,66,57.93,One year,No,Fiber,Yes,13.7,0
+CUST01109,68,86.08,One year,No,DSL,Yes,12.3,0
+CUST01110,4,60.16,Month-to-month,No,DSL,No,15.5,1
+CUST01111,46,77.45,One year,No,Fiber,No,14.6,0
+CUST01112,17,68.89,Two year,No,Fiber,Yes,7.8,1
+CUST01113,14,91.21,One year,No,Fiber,Yes,13.4,1
+CUST01114,22,60.23,Month-to-month,Yes,DSL,Yes,19.9,0
+CUST01115,14,37.4,Month-to-month,No,DSL,Yes,26.9,1
+CUST01116,36,41.6,Month-to-month,No,DSL,No,21.9,1
+CUST01117,72,60.3,Month-to-month,No,DSL,Yes,1.0,0
+CUST01118,43,44.52,Month-to-month,No,Fiber,No,22.5,1
+CUST01119,53,81.02,Two year,Yes,Fiber,No,14.1,0
+CUST01120,36,61.75,Month-to-month,No,Fiber,Yes,21.2,0
+CUST01121,2,124.24,One year,Yes,DSL,No,17.9,1
+CUST01122,7,33.77,Month-to-month,Yes,DSL,Yes,16.7,0
+CUST01123,20,76.48,Month-to-month,No,Fiber,Yes,17.3,1
+CUST01124,18,47.19,Month-to-month,Yes,Fiber,No,17.8,1
+CUST01125,61,61.15,Month-to-month,Yes,DSL,Yes,27.4,0
+CUST01126,61,75.11,One year,No,DSL,Yes,17.9,0
+CUST01127,62,20.84,Two year,No,DSL,No,25.6,0
+CUST01128,46,77.21,Two year,Yes,Fiber,Yes,24.6,0
+CUST01129,41,113.86,Month-to-month,Yes,None,No,22.7,0
+CUST01130,47,62.02,One year,No,DSL,Yes,5.5,0
+CUST01131,30,77.72,Month-to-month,No,DSL,No,25.8,0
+CUST01132,49,94.55,Two year,No,DSL,Yes,14.8,0
+CUST01133,58,68.39,Month-to-month,No,None,Yes,23.0,0
+CUST01134,55,59.22,Month-to-month,Yes,None,Yes,11.2,0
+CUST01135,45,21.93,Month-to-month,No,DSL,No,9.7,0
+CUST01136,5,86.1,Month-to-month,Yes,Fiber,Yes,31.8,0
+CUST01137,53,69.51,Month-to-month,No,Fiber,No,11.3,0
+CUST01138,27,49.72,Two year,Yes,DSL,Yes,26.0,0
+CUST01139,54,74.79,One year,No,DSL,Yes,18.8,0
+CUST01140,39,59.16,Two year,Yes,Fiber,Yes,15.1,0
+CUST01141,64,60.37,Month-to-month,No,Fiber,Yes,17.7,0
+CUST01142,25,85.34,One year,Yes,None,No,8.9,0
+CUST01143,68,42.56,Month-to-month,No,DSL,Yes,17.9,0
+CUST01144,61,95.04,Month-to-month,Yes,None,No,10.4,0
+CUST01145,24,41.25,Month-to-month,Yes,Fiber,No,15.2,0
+CUST01146,35,57.42,Month-to-month,Yes,DSL,Yes,24.5,1
+CUST01147,39,114.3,One year,No,DSL,No,19.8,1
+CUST01148,56,96.8,Month-to-month,No,Fiber,No,7.6,1
+CUST01149,50,74.15,Month-to-month,No,Fiber,No,24.0,0
+CUST01150,62,51.31,One year,No,None,Yes,18.0,0
+CUST01151,27,60.36,Month-to-month,No,Fiber,No,14.2,1
+CUST01152,37,73.61,Two year,Yes,DSL,No,23.2,0
+CUST01153,32,72.83,Month-to-month,No,DSL,Yes,16.8,1
+CUST01154,66,70.0,One year,No,DSL,No,9.8,1
+CUST01155,22,71.32,One year,No,Fiber,Yes,30.9,1
+CUST01156,43,67.28,One year,No,DSL,No,17.9,0
+CUST01157,9,40.28,One year,No,Fiber,No,17.4,1
+CUST01158,62,60.64,Two year,No,DSL,No,15.2,0
+CUST01159,28,92.12,One year,No,Fiber,No,26.3,0
+CUST01160,25,41.9,Month-to-month,Yes,DSL,No,14.3,0
+CUST01161,42,67.83,Month-to-month,No,DSL,No,7.2,1
+CUST01162,36,53.97,One year,No,Fiber,Yes,13.2,0
+CUST01163,62,74.45,Month-to-month,No,Fiber,Yes,27.3,0
+CUST01164,39,63.45,Month-to-month,No,DSL,Yes,23.8,1
+CUST01165,38,104.5,Month-to-month,Yes,Fiber,Yes,16.2,1
+CUST01166,8,83.14,Month-to-month,Yes,Fiber,No,27.6,1
+CUST01167,2,43.14,Month-to-month,Yes,Fiber,No,23.2,0
+CUST01168,29,86.77,One year,No,None,Yes,16.1,0
+CUST01169,72,54.96,One year,Yes,DSL,Yes,16.8,0
+CUST01170,67,59.31,One year,No,Fiber,No,20.3,0
+CUST01171,46,78.9,Month-to-month,No,None,Yes,12.2,0
+CUST01172,46,61.18,Month-to-month,No,Fiber,No,18.0,1
+CUST01173,29,91.64,One year,Yes,Fiber,No,20.2,0
+CUST01174,13,54.96,Month-to-month,No,Fiber,Yes,6.2,0
+CUST01175,1,58.38,One year,Yes,Fiber,Yes,16.7,1
+CUST01176,25,57.56,Month-to-month,No,Fiber,Yes,15.9,1
+CUST01177,23,59.56,Two year,Yes,DSL,Yes,25.2,0
+CUST01178,14,96.18,Month-to-month,Yes,Fiber,Yes,5.1,1
+CUST01179,19,85.83,One year,Yes,DSL,Yes,15.3,0
+CUST01180,2,109.62,One year,No,Fiber,Yes,14.6,0
+CUST01181,44,121.89,Month-to-month,Yes,Fiber,Yes,24.7,0
+CUST01182,67,49.32,One year,No,Fiber,Yes,17.7,0
+CUST01183,50,73.55,Month-to-month,No,DSL,No,30.6,1
+CUST01184,33,46.12,One year,No,DSL,Yes,22.6,0
+CUST01185,31,54.89,One year,Yes,Fiber,No,15.1,1
+CUST01186,23,58.14,Month-to-month,Yes,Fiber,Yes,19.7,1
+CUST01187,11,48.74,Month-to-month,No,Fiber,Yes,15.5,1
+CUST01188,44,48.86,One year,Yes,DSL,Yes,24.0,0
+CUST01189,41,68.83,Month-to-month,No,Fiber,No,8.7,1
+CUST01190,1,45.23,Two year,Yes,DSL,Yes,12.2,1
+CUST01191,30,90.53,One year,No,Fiber,Yes,21.2,1
+CUST01192,21,51.81,One year,Yes,Fiber,Yes,26.6,1
+CUST01193,13,133.81,Month-to-month,No,DSL,No,2.6,1
+CUST01194,51,62.07,One year,Yes,Fiber,Yes,27.6,0
+CUST01195,38,73.58,Two year,No,Fiber,Yes,17.0,1
+CUST01196,46,43.5,Month-to-month,Yes,None,No,4.8,0
+CUST01197,52,109.53,Month-to-month,No,Fiber,Yes,1.0,1
+CUST01198,71,96.63,Month-to-month,No,Fiber,Yes,7.3,1
+CUST01199,58,78.53,Month-to-month,Yes,Fiber,No,17.9,0
+CUST01200,45,42.37,One year,Yes,Fiber,Yes,17.5,0

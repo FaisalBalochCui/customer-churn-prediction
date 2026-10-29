@@ -1,0 +1,8 @@
+SYNTHETIC DEMO ONLY — not a real business finding.\nSelected by holdout ROC-AUC: Logistic Regression\n\n              precision    recall  f1-score   support
+
+           0       0.75      0.79      0.77       141
+           1       0.68      0.62      0.65        99
+
+    accuracy                           0.72       240
+   macro avg       0.71      0.71      0.71       240
+weighted avg       0.72      0.72      0.72       240
